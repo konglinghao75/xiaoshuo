@@ -8,7 +8,7 @@ https://www.sczprc.com/
 
 
 
-@author: zpj
+@author: klh
 """
 from spider import Spider
 
