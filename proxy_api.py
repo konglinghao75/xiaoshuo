@@ -19,7 +19,8 @@ Created on Sun Jun 30 22:57:33 2019
 obj是返回代理ip的列表zpj
 
 
-@author: 
+@author: klh
+
 """
 import time
 import requests
