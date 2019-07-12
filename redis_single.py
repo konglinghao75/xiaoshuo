@@ -9,8 +9,7 @@
 
 XzxRedis().r返回一个 redis 数据库的链接池对象
 
-@author: zpj
-
+@author: klh
 """
 
 import redis
